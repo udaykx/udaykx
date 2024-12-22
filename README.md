@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm @udaykx</h1>
 <h3 align="center">A passionate developer from India🇮🇳</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/de877706ab9f6123a5c31f64faeb84bd9163b55f4396a6b672307c5f690a0270/68747470733a2f2f6d656469612e74656e6f722e636f6d2f49546331684e4253485f77414141414d2f636f64696e672d747970696e672e676966">
+<img align="right" alt="Coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykx&label=Profile%20views&color=0e75b6&style=flat" alt="udaykx" /> </p>
 
 - 🌱 I’m currently learning **C++ JAVA Python languages**
