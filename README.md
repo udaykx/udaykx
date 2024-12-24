@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm @udaykx</h1>
 <h3 align="center">A passionate developer from India🇮🇳</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/o-wNCEq_6f0AAAAM/pompo-the-cinephile-typing-fast.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykx&label=Profile%20views&color=0e75b6&style=flat" alt="udaykx" /> </p>
 
 - 🌱 I’m currently learning **C++ JAVA Python languages**
