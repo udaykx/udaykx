@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/42/9e/e9/429ee92e7799cf8c4ddf58e1c902aa0d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykx&label=Profile%20views&color=0e75b6&style=flat" alt="udaykx" /> </p>
 
-- 🌱 I’m  learning **C++ JAVA Python languages**
+- 🌱 I’m currently learning **C++ JAVA Python languages**
 
 - 💬 Ask me about **technical informations about computers**
 
